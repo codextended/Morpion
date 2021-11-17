@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Morpion</string>
+    <string name="welcome_message">Byenvini nan jwet la!</string>
+    <string name="enter_button">Antre</string>
+    <string name="komanse">Komanse</string>
+    <string name="selection_string">Premye jwe a chwazi:</string>
+    <string name="x_string">X</string>
+    <string name="o_string">O</string>
+    <string name="restart_button">Rekomanse</string>
+    <string name="reset_button">Eseye Anko</string>
+</resources>
